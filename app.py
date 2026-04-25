@@ -1,3 +1,6 @@
+import streamlit as st
+st.write("✅ Streamlit empezó a ejecutar app.py")
+st.write("Python runtime OK")
 import time
 import re
 from typing import Optional, List, Dict
